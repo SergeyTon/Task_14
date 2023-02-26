@@ -1,0 +1,16 @@
+[
+  {
+    "userId": 1,
+    "login": "admin",
+    "password": "7110eda4d09e062aa5e4a390b0a572ac0d2c0220", 
+    "name": "Admin",
+    "isAdmin": 1
+  },
+  {
+    "userId": 2,
+    "login": "user",
+    "password": "d5f12e53a182c062b6bf30c1445153faff12269a",
+    "name": "User",
+    "isAdmin": 0
+  }
+]
